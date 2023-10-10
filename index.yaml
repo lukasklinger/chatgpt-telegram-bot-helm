@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chatgpt-telegram-bot:
+  - apiVersion: v2
+    appVersion: 0.3.1
+    created: "2023-10-10T18:28:34.188834067Z"
+    description: A Helm chart for the ChatGPT Telegram Bot
+    digest: 3ab57d371de8fcd088ea1cec9dc7c446ab0af6b63e04282a92b67e109557d531
+    name: chatgpt-telegram-bot
+    type: application
+    urls:
+    - https://github.com/lukasklinger/chatgpt-telegram-bot-helm/releases/download/chatgpt-telegram-bot-0.1.0/chatgpt-telegram-bot-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-10-10T18:28:34.188844967Z"
